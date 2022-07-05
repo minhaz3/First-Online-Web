@@ -49,3 +49,10 @@ section {
 body {
     margin: 0;
 }
+
+.big {
+    background-position: right;
+    background-image: url(imagefile/back1.png);
+    background-repeat: no-repeat;
+
+}
