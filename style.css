@@ -2,14 +2,25 @@ h1 {
     font-size: 80px;
 }
 
+h2 {
+    font-size: 30px;
+}
+
 .set {
     display: flex;
+    background-image: url(imagefile/back2.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    border-left: 5px;
+    border-color: blue;
+
 
 }
 
 .head {
     width: 50%;
     padding: 4%;
+
 }
 
 .head img {
@@ -55,4 +66,32 @@ body {
     background-image: url(imagefile/back1.png);
     background-repeat: no-repeat;
 
+}
+
+h3 {
+    color: orange;
+}
+
+.new {
+    width: 50%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 3%;
+    padding-left: 10px;
+    box-shadow: 10px 10px 50px grey;
+    border-radius: 10px;
+    height: 300px;
+
+}
+
+#fst {
+    border-left: 5px solid orange;
+}
+
+#end {
+    border-left: 5px solid blue;
+}
+
+footer p {
+    text-align: center;
 }
