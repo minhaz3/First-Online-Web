@@ -14,3 +14,26 @@ section {
 .head img {
     width: 100%;
 }
+
+.fr {
+    color: orange;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, rgb(240, 164, 24));
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+
+}
+
+.same-page {
+    text-decoration: none;
+    background-image: linear-gradient(orange, rgb(240, 164, 24));
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
