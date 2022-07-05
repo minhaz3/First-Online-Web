@@ -4,6 +4,7 @@ h1 {
 
 section {
     display: flex;
+
 }
 
 .head {
@@ -36,4 +37,15 @@ section {
     border-radius: 5px;
     color: white;
     font-weight: 700;
+}
+
+.top-banner {
+    background-image: url(imagefile/top-banner.png);
+    background-repeat: no-repeat;
+
+
+}
+
+body {
+    margin: 0;
 }
