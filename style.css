@@ -1,11 +1,16 @@
+h1 {
+    font-size: 80px;
+}
+
 section {
     display: flex;
 }
 
-.pertar-parker {
+.head {
     width: 50%;
+    padding: 4%;
 }
 
-.img {
-    width: 50%;
+.head img {
+    width: 100%;
 }
